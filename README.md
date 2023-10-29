@@ -1,4 +1,4 @@
-# Praktikum06_nativeBase / Navigasi dengan News Detail
+# Praktikum06_nativeBase / Navigasi dengan News Detail / Expo-cli
 
 Ini adalah proyek React Native sederhana yang menggabungkan navigasi tumpukan dan tab dengan fitur rincian berita. Aplikasi ini memiliki beberapa tampilan berita dan memungkinkan pengguna untuk melihat detail dari setiap berita.
 
@@ -33,15 +33,5 @@ Ini adalah proyek React Native sederhana yang menggabungkan navigasi tumpukan da
 5. Kemudian, buka emulator atau perangkat fisik Anda dan jalankan aplikasi menggunakan perintah:
 
    ```bash
-   npx react-native run-android
+   npx expo start
    ```
-
-   untuk Android atau
-
-   ```bash
-   npx react-native run-ios
-   ```
-
-   untuk iOS.
-
-buatkan dengan html css yang pas di layar laptop, itu terlalu besar untuk judul dan output capture. maksud saya code kan
